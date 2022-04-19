@@ -1,0 +1,5 @@
+- Binary Search Tree 
+- Queue
+- Directed Weighted Graph (Sparse array)
+- Breadth First Search
+- Kruskal's algorithm for Minimum Spanning Tree 
