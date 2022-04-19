@@ -1,8 +1,8 @@
-#### Binary Search Tree 
+### Binary Search Tree 
 Functions
 - Insert/Delete Node
 - Print path from root to leaves
-#### Directed Weighted Graph  
+### Directed Weighted Graph  
 Graph implementation using Horizontal & Vertical simple linked lists (each node has next/prev and up/down pointers) <br>
 Functions:
 - Insert/Delete Node
